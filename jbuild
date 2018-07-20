@@ -1,0 +1,5 @@
+(executable
+  ((name metrics)
+   (libraries (lwt irmin-unix fmt))
+  )
+)
